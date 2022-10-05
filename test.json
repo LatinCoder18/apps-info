@@ -1,0 +1,19 @@
+{
+  "codigo": "1",
+  "descripcion": "",
+  "arrCtas": [
+    {
+      "cuenta": "1111.2901",
+      "descripcion": "CAJA 1"
+    },
+    {
+      "cuenta": "22222.0212",
+      "descripcion": "CAJA 2"
+    },
+    {
+      "cuenta": "3324.0345",
+      "descripcion": "CAJA 3"
+    }
+  ]
+}
+
