@@ -1,1 +1,72 @@
-{"count":1,"next":null,"previous":null,"results":[{"id_servicio":2,"usuario":"0002@gigapop2","nombre":"Juan Falcon","email":"juan@gigapop.com","cedula":"9768495","direccion":"AV. SANTE FE 3","localidad":"","ciudad":"","telefono":"","descuento":"0.00","saldo":"0.00","rfc":"","informacion_adicional":null,"notificacion_sms":true,"aviso_pantalla":true,"notificaciones_push":true,"auto_activar_servicio":false,"firewall":true,"servicio":"0002","password_servicio":"","server_hotspot":"","ip":"192.168.15.1","ip_local":null,"estado":"Activo","modelo_antena":null,"password_cpe":"","mac_cpe":"","interfaz_lan":"ether2","modelo_router_wifi":"","ip_router_wifi":null,"mac_router_wifi":"","usuario_router_wifi":"","password_router_wifi":"","ssid_router_wifi":"","password_ssid_router_wifi":"","comentarios":"","coordenadas":"","costo_instalacion":"","precio_plan":"73.00","forma_contratacion":"-------------","sn_onu":"","estado_facturas":"Pendiente de Pago","fecha_instalacion":"02/24/2023 14:46:00","fecha_cancelacion":null,"fecha_corte":"8/3/2023","ultimo_cambio":"02/24/2023 13:47:39","plan_internet":{"id":105021,"nombre":"Plan Ultra"},"zona":{"id":19468,"nombre":"Los olivos"},"router":{"id":19460,"nombre":"Los olivos"},"sectorial":null,"tecnico":{"id":1330548,"nombre":"Juan Perez"}}]}
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id_servicio": 2,
+            "usuario": "0002@gigapop2",
+            "nombre": "Juan Falcon",
+            "email": "juan@gigapop.com",
+            "cedula": "9768495",
+            "direccion": "AV. SANTE FE 3",
+            "localidad": "",
+            "ciudad": "",
+            "telefono": "",
+            "descuento": "0.00",
+            "saldo": "0.00",
+            "rfc": "",
+            "informacion_adicional": null,
+            "notificacion_sms": true,
+            "aviso_pantalla": true,
+            "notificaciones_push": true,
+            "auto_activar_servicio": false,
+            "firewall": true,
+            "servicio": "0002",
+            "password_servicio": "",
+            "server_hotspot": "",
+            "ip": "192.168.15.1",
+            "ip_local": null,
+            "estado": "Activo",
+            "modelo_antena": null,
+            "password_cpe": "",
+            "mac_cpe": "",
+            "interfaz_lan": "ether2",
+            "modelo_router_wifi": "",
+            "ip_router_wifi": null,
+            "mac_router_wifi": "",
+            "usuario_router_wifi": "",
+            "password_router_wifi": "",
+            "ssid_router_wifi": "",
+            "password_ssid_router_wifi": "",
+            "comentarios": "",
+            "coordenadas": "",
+            "costo_instalacion": "",
+            "precio_plan": "73.00",
+            "forma_contratacion": "-------------",
+            "sn_onu": "",
+            "estado_facturas": "Pendiente de Pago",
+            "fecha_instalacion": "02/24/2023 14:46:00",
+            "fecha_cancelacion": null,
+            "fecha_corte": "8/3/2023",
+            "ultimo_cambio": "02/24/2023 13:47:39",
+            "plan_internet": {
+                "id": 105021,
+                "nombre": "Plan Ultra"
+            },
+            "zona": {
+                "id": 19468,
+                "nombre": "Los olivos"
+            },
+            "router": {
+                "id": 19460,
+                "nombre": "Los olivos"
+            },
+            "sectorial": null,
+            "tecnico": {
+                "id": 1330548,
+                "nombre": "Juan Perez"
+            }
+        }
+    ]
+}
