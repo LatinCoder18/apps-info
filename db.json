@@ -2,11 +2,13 @@
     "Pedido": [
         {
             "Producto": "Bolígrafo",
-            "Cantidad": "150""Precio": "750"
+            "Cantidad": "150",
+            "Precio": "750"
         },
         {
             "Producto": "Pendrive",
-            "Cantidad": "11""Precio": "2755.5"
+            "Cantidad": "11",
+            "Precio": "2755.5"
         }
     ]
 }
